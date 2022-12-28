@@ -1,2 +1,2 @@
 # eulerian-paths
-Eulerian Path and Cycle Traversal Algorithm (DNA Sequencing)
+Eulerian Path and Cycle Traversal Algorithm (DNA Sequencing.)
